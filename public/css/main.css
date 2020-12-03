@@ -1,0 +1,16 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+body {
+    height:100vh;
+    color:#FFF;
+    background-color:#EBF2F5;
+}
+:root {
+    font-size:62.5%;
+}
+body, input, button, textarea {
+    font:400 1.5rem/1.1 'Nunito', sans-serif;
+}
